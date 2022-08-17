@@ -125,8 +125,7 @@
           "DelegatedPermissions": [ "ToDoList.Read", "ToDoList.ReadWrite" ]
         }
       ],
-      "Certificate":"",
-      "CustomersConfigurations": [
+      "CSharpConfigurations": [
         {
           "AppSettingsJson": {
             "AzureAd": {
